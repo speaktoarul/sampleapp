@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">App Name</string>
+
+    <string name="home_content"></string>
+
+    <string name="admob_app_id"></string>
+    <string name="admob_banner_id"></string>
+    <string name="admob_interstitial_id"></string>
+
+    <string name="page_one_link"></string>
+    <string name="page_two_link"></string>
+    <string name="page_three_link"></string>
+    <string name="page_four_link"></string>
+    <string name="page_five_link"></string>
+    <string name="page_six_link"></string>
+
+    <string name="page_eight_link"></string>
+
+
+    <string name="page_seven_link"></string>
+
+
+    <string name="page_nine_link"></string>
+    <string name="page_ten_link"></string>
+
+    <string name="page_eleven_link"></string>
+    <string name="page_twelve_link"></string>
+
+    <string name="page_privacy_link"></string>
+</resources>
